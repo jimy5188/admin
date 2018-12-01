@@ -1,0 +1,1141 @@
+# Translation of FlyMag in Chinese (China)
+# This file is distributed under the same license as the FlyMag package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-03 14:21:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: FlyMag\n"
+
+#. Theme Name of the plugin/theme
+msgid "FlyMag"
+msgstr "FlyMag"
+
+#. Description of the plugin/theme
+msgid "Flymag is a responsive magazine theme with a modern look. Flymag lets you use any of the 600+ Google Fonts, provides color options for a lot of the theme elements and also offers you some useful page templates. With Flymag you can easily build your front page magazine-layout using the built in widgets specifically designed for this task."
+msgstr "Flymag 是一个设计现代化、响应灵敏的杂志主题。 Flymag 可以让您任意使用六百多种Google 字体， 提供给您多种主题元素的配色选择和一些有用的页面模板 。在Flymag中，使用专为该任务设计的微件，您可以轻松将您的主页搭建成杂志版面。"
+
+#: searchform.php:14
+msgctxt "search page"
+msgid "Search for:"
+msgstr "搜索："
+
+#: inc/customizer.php:1306
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/customizer.php:1307
+msgid "Leave a Review"
+msgstr "留下您的评论"
+
+#: inc/customizer.php:1308
+msgid "Documentation"
+msgstr "程序文档"
+
+#: functions.php:285
+msgid "All plugins installed and activated successfully. %s"
+msgstr "所有插件均已成功安装并激活。%s"
+
+#: inc/customizer.php:73
+msgid "Check out the <a href=\"http://themeisle.com/themes/flymag-pro/\">PRO version</a> for access to the featured area!"
+msgstr "查看 <a href=\"http://themeisle.com/themes/flymag-pro/\">专业版</a>前往特色领域！"
+
+#: inc/customizer.php:82
+msgid "Check out the <a href=\"http://themeisle.com/themes/flymag-pro/\">PRO version</a> for full control over the footer credits section!"
+msgstr "查看<a href=\"http://themeisle.com/themes/flymag-pro/\">专业版</a>页脚文字区段全控制！"
+
+#: inc/customizer.php:90
+msgid "Check out the <a href=\"http://themeisle.com/themes/flymag-pro/\">PRO version</a> to use the extra widget areas!"
+msgstr "查看<a href=\"http://themeisle.com/themes/flymag-pro/\">专业版</a>使用补充微件！"
+
+#: inc/customizer.php:372
+msgid "Featured Area"
+msgstr "特色领域"
+
+#: inc/customizer.php:899
+msgid "Footer Credits"
+msgstr "页脚文字"
+
+#: inc/customizer.php:916
+msgid "Extra Widget Areas"
+msgstr "补充微件"
+
+#: inc/customizer.php:1305
+msgid "View PRO version"
+msgstr "查看专业版"
+
+#: functions.php:275
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "抱歉，您不具备安装该插件%s的许可。请联系网站管理员帮助您安装该插件。"
+
+#: functions.php:278
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "抱歉，您不具备激活该插件%s 的许可。请联系网站管理员帮助您激活该插件。"
+
+#: functions.php:280
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "抱歉，您不具备更新该插件%s 的许可。请联系网站管理员帮助您更新该插件。"
+
+#: class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "所有安装均已完成。"
+
+#: class-tgm-plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装插件 %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "成功安装%1$s"
+
+#: class-tgm-plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装和激活插件%1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "安装过程即将开始。这个过程可能会持续一段时间，所以请您保持耐心。"
+
+#: class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "所有安装和激活过程均已完成。"
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "隐藏详情"
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "显示详情"
+
+#: class-tgm-plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "安装并激活%1$s成功。"
+
+#: class-tgm-plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "%1$s安装失败。"
+
+#: class-tgm-plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "安装和激活过程即将开始。这个过程可能会持续一段时间，请保持耐心。"
+
+#: class-tgm-plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装%1$s时出错：<strong>%2$s</strong>"
+
+#: class-tgm-plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在升级 %1$s 插件（%2$d/%3$d）"
+
+#: class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#: class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "当前无可更新插件。"
+
+#: class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "未选中插件激活。无动作进行。"
+
+#: class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "当前无可激活插件。"
+
+#: class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "未选中插件安装。无动作进行。"
+
+#: class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "未选中插件更新。无动作进行。"
+
+#: class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "当前无可安装插件。"
+
+#: class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "激活"
+
+#: class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "更新"
+
+#: class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "安装%2$s"
+
+#: class-tgm-plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "更新%2$s"
+
+#: class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "激活%2$s"
+
+#: class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "来自插件制作者的升级信息。"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "安装"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "当前状态"
+
+#: class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "版本"
+
+#: class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "类型："
+
+#: class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "源"
+
+#: class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "可获得版本："
+
+#: class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "无插件更新、安装或激活。<a href=\"%1$s\">返回主控页面</a>"
+
+#: class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "插件"
+
+#: class-tgm-plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "激活<span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#: class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "已安装版本："
+
+#: class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "最低需要版本："
+
+#: class-tgm-plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "安装<span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "可供更新 <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "更新推荐"
+
+#: class-tgm-plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全部 <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "无可获得更新"
+
+#: class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "已安装但未激活"
+
+#: class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "激活"
+
+#: class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "WordPress 库"
+
+#: class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "外部源"
+
+#: class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "预包装"
+
+#: class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "未安装"
+
+#: class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "推荐"
+
+#: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "请联系插件提供者，请求他们依据WordPress指导打包插件。"
+
+#: class-tgm-plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "远程插件安装包中含有多个文件，这些文件不在一个文件夹中。"
+
+#: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "和"
+
+#: class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "必需"
+
+#: class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "请联系网站管理员寻求帮助"
+
+#: class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "该插件需要更新，以便与您的主题相兼容。"
+
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "必需更新"
+
+#: class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "设置parent_slug配置变量替换。"
+
+#: class-tgm-plugin-activation.php:828 class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "返回主控页面"
+
+#: class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "远程插件安装包中不包含所需slug的文件，重命名无效。"
+
+#: class-tgm-plugin-activation.php:400 class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "以下插件已激活成功："
+
+#: class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "无动作进行。插件%1$s已激活。"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "插件未激活。这个主题需要更高版本的 %s 。请更新插件。"
+
+#: class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件均已成功安装并激活。%1$s"
+
+#: class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "关闭这个通知"
+
+#: class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "返回主控页面"
+
+#: class-tgm-plugin-activation.php:399 class-tgm-plugin-activation.php:3029
+#: functions.php:284
+msgid "Plugin activated successfully."
+msgstr "插件激活成功。"
+
+#: class-tgm-plugin-activation.php:397 functions.php:283
+msgid "Return to Required Plugins Installer"
+msgstr "返回所需插件安装界面"
+
+#: class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "抱歉，您不具备激活该插件 %1$s 的许可。"
+
+#: class-tgm-plugin-activation.php:382 functions.php:281
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件"
+
+#: class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "开始更新插件"
+
+#: class-tgm-plugin-activation.php:392 functions.php:282
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "开始激活插件"
+
+#: class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "这里有一个可获得更新：%1$s"
+
+#: class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "抱歉，您不具备更新该插件 %1$s 的许可"
+
+#: class-tgm-plugin-activation.php:367 functions.php:276
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下必需的插件是当前处于未激活状态： %1$s。"
+
+#: class-tgm-plugin-activation.php:372 functions.php:277
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下推荐插件是当前处于未激活状态： %1$s。"
+
+#: class-tgm-plugin-activation.php:342 functions.php:274
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "这个主题推荐以下插件：%1$s"
+
+#: class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "抱歉，您不具备安装该插件%1$s的许可。"
+
+#: class-tgm-plugin-activation.php:352 functions.php:279
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "以下插件需要更新到最新的版本，以确保与这一主题的最佳兼容性： %1$s。"
+
+#: class-tgm-plugin-activation.php:336 functions.php:272
+msgid "Something went wrong with the plugin API."
+msgstr "插件API发生出错。"
+
+#: class-tgm-plugin-activation.php:337 functions.php:273
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "这一主题需要以下插件： %1$s。"
+
+#: class-tgm-plugin-activation.php:335 functions.php:271
+msgid "Installing Plugin: %s"
+msgstr "正在安装插件：%s"
+
+#: class-tgm-plugin-activation.php:334 functions.php:270
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: class-tgm-plugin-activation.php:333 functions.php:269
+msgid "Install Required Plugins"
+msgstr "安装必需插件"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "全宽"
+
+#: widgets/video-widget.php:28
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "粘贴 （只是从一个网络，支持 oEmbed 像 Youtube，Vimeo 等。） 视频的 URL："
+
+#. Template Name of the plugin/theme
+msgid "Front page - fullwidth"
+msgstr "首页 - 全宽"
+
+#. Template Name of the plugin/theme
+msgid "Front page"
+msgstr "首页"
+
+#: widgets/recent-posts-slider.php:11
+msgid "Recent posts slider (front page)"
+msgstr "近期文章幻灯片（首页）"
+
+#: widgets/recent-posts-slider.php:12
+msgid "Flymag: Recent posts slider"
+msgstr "Flymag：近期文章幻灯片"
+
+#: widgets/recent-posts-slider.php:134
+msgid "Title color"
+msgstr "标题颜色"
+
+#: widgets/video-widget.php:6
+msgid "Display an oEmbed video."
+msgstr "展示一个oEmbed视频。"
+
+#: widgets/video-widget.php:7
+msgid "Flymag: Video"
+msgstr "Flymag：视频"
+
+#: widgets/video-widget.php:24
+msgid "Title"
+msgstr "标题"
+
+#: widgets/recent-posts-b.php:11
+msgid "Recent posts widget Type B (front page)"
+msgstr "近期文章微件Type B（首页）"
+
+#: widgets/recent-posts-b.php:12
+msgid "Flymag: Recent posts type B"
+msgstr "Flymag：近期文章type B"
+
+#: widgets/recent-posts-c.php:11
+msgid "Recent posts widget Type C - two categories (front page)"
+msgstr "近期文章微件 Type C - 两个目录（首页）"
+
+#: widgets/recent-posts-c.php:12
+msgid "Flymag: Recent posts type C"
+msgstr "Flyman： 近期文章type C。"
+
+#: widgets/recent-posts-c.php:209
+msgid "Enter the slug for your first category."
+msgstr "在您的第一个目录中输入slug"
+
+#: widgets/recent-posts-c.php:212
+msgid "Enter the slug for your second category."
+msgstr "请在您的第二个目录中输入slug"
+
+#: widgets/recent-posts-d.php:11
+msgid "Recent posts widget Type D - only images (front page)"
+msgstr "近期文章微件Type D - 仅适用图片（首页）"
+
+#: widgets/recent-posts-d.php:12
+msgid "Flymag: Recent posts type D"
+msgstr "Flymag：近期文章type D"
+
+#: widgets/recent-posts-d.php:129 widgets/recent-posts-slider.php:128
+msgid "Number of posts to show:"
+msgstr "显示文章数："
+
+#: widgets/recent-posts-a.php:157 widgets/recent-posts-b.php:167
+#: widgets/recent-posts-c.php:218 widgets/recent-posts-d.php:135
+msgid "Text color"
+msgstr "文本颜色"
+
+#: widgets/recent-posts-a.php:11
+msgid "Recent posts widget Type A (front page)"
+msgstr "近期文章微件Type A （首页）"
+
+#: widgets/recent-posts-a.php:12
+msgid "Flymag: Recent posts type A"
+msgstr "Flymag：近期文章type A"
+
+#: widgets/recent-posts-a.php:151 widgets/recent-posts-b.php:161
+#: widgets/recent-posts-d.php:127 widgets/recent-posts-slider.php:125
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "请在您的目录中输入slug或留空，以便从所有目录中展示文章。"
+
+#: widgets/recent-posts-a.php:154 widgets/recent-posts-b.php:164
+#: widgets/recent-posts-c.php:215 widgets/recent-posts-d.php:132
+#: widgets/recent-posts-slider.php:131
+msgid "Background color"
+msgstr "背景颜色"
+
+#: widgets/recent-comments.php:101
+msgid "Number of comments to show:"
+msgstr "显示评论的数量："
+
+#. translators: comments widget: 1: comment author, 2: post link
+#: widgets/recent-comments.php:67
+msgid "%1$s on %2$s"
+msgstr "%1$s on %2$s"
+
+#: widgets/recent-comments.php:98 widgets/recent-posts-a.php:148
+#: widgets/recent-posts-b.php:158 widgets/recent-posts-d.php:125
+#: widgets/recent-posts-slider.php:122
+msgid "Title:"
+msgstr "标题："
+
+#: searchform.php:14
+msgid "Type and press enter"
+msgstr "类型和按键"
+
+#: widgets/recent-comments.php:6
+msgid "Display your site&#8217;s recent comments with avatars."
+msgstr "展示您的网站&#8217;s  近期评论怎么样。"
+
+#: widgets/recent-comments.php:7
+msgid "Flymag: Recent Comments"
+msgstr "Flymag：近期评论"
+
+#: widgets/recent-comments.php:41
+msgid "Recent Comments"
+msgstr "近期评论"
+
+#: searchform.php:13
+msgid "Search for:"
+msgstr "搜索："
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s的搜索结果"
+
+#: inc/template-tags.php:168
+msgid "Archives"
+msgstr "归档"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:166
+msgid "%1$s: %2$s"
+msgstr "%1$s：%2$s"
+
+#: inc/template-tags.php:162
+msgid "Archives: %s"
+msgstr "存档：%s"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "聊天"
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音频"
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "状态"
+
+#: inc/template-tags.php:153
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "链接"
+
+#: inc/template-tags.php:151
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引语"
+
+#: inc/template-tags.php:149
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "视频"
+
+#: inc/template-tags.php:147
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "图像"
+
+#: inc/template-tags.php:145
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "相册"
+
+#: inc/template-tags.php:143
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "日志"
+
+#: inc/template-tags.php:140
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:140
+msgid "Day: %s"
+msgstr "日期：%s"
+
+#: inc/template-tags.php:138
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年m月"
+
+#: inc/template-tags.php:138
+msgid "Month: %s"
+msgstr "月份：%s"
+
+#: inc/template-tags.php:136
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/template-tags.php:136
+msgid "Year: %s"
+msgstr "年份：%s"
+
+#: inc/template-tags.php:134
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: inc/template-tags.php:132
+msgid "Tag: %s"
+msgstr "标签：%s"
+
+#: inc/template-tags.php:130
+msgid "Category: %s"
+msgstr "分类：%s"
+
+#: inc/template-tags.php:103 inc/template-tags.php:107
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "较新文章 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 早期文章"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: inc/extras.php:64
+msgid "Page %s"
+msgstr "第%s页"
+
+#: inc/customizer.php:962
+msgid "Color 1 (primary color)"
+msgstr "色彩1（基础色）"
+
+#: inc/customizer.php:981
+msgid "Color 2"
+msgstr "色彩2"
+
+#: inc/customizer.php:1000
+msgid "Color 3"
+msgstr "色彩3"
+
+#: inc/customizer.php:1019
+msgid "Color 4"
+msgstr "色彩4"
+
+#: inc/customizer.php:1038
+msgid "Color 5"
+msgstr "色彩5"
+
+#: inc/customizer.php:1065
+msgid "Latest news background"
+msgstr "最新消息背景"
+
+#: inc/customizer.php:1085
+msgid "Header background"
+msgstr "标题背景"
+
+#: inc/customizer.php:1147
+msgid "Menu background"
+msgstr "菜单背景"
+
+#: inc/customizer.php:1193
+msgid "Body text"
+msgstr "主体文字"
+
+#: inc/customizer.php:1214
+msgid "Widgets color"
+msgstr "微件配色"
+
+#: inc/customizer.php:1235
+msgid "Footer"
+msgstr "页脚"
+
+#: inc/customizer.php:719 inc/customizer.php:1127
+msgid "Site description"
+msgstr "站点描述"
+
+#: inc/customizer.php:740 inc/customizer.php:1167
+msgid "Menu items"
+msgstr "菜单项"
+
+#: inc/customizer.php:761
+msgid "H1 font size"
+msgstr "H1字体大小"
+
+#: inc/customizer.php:782
+msgid "H2 font size"
+msgstr "H2字体大小"
+
+#: inc/customizer.php:803
+msgid "H3 font size"
+msgstr "H3字体大小"
+
+#: inc/customizer.php:824
+msgid "H4 font size"
+msgstr "H4字体大小"
+
+#: inc/customizer.php:845
+msgid "H5 font size"
+msgstr "H6字体大小"
+
+#: inc/customizer.php:866
+msgid "H6 font size"
+msgstr "H6字体大小"
+
+#: inc/customizer.php:887
+msgid "Body font size"
+msgstr "主体字体大小"
+
+#: inc/customizer.php:944
+msgid "Color scheme"
+msgstr "配色方案"
+
+#: inc/customizer.php:698 inc/customizer.php:1106
+msgid "Site title"
+msgstr "站点标题"
+
+#: inc/customizer.php:631
+msgid "Headings fonts"
+msgstr "标题字体"
+
+#: inc/customizer.php:679
+msgid "Font sizes"
+msgstr "字号"
+
+#: inc/customizer.php:583
+msgid "Body fonts"
+msgstr "主体字体"
+
+#: inc/customizer.php:600 inc/customizer.php:648
+msgid "Font name/style/sets"
+msgstr "字体名称/风格/设置"
+
+#: inc/customizer.php:617 inc/customizer.php:665
+msgid "Font family"
+msgstr "字体"
+
+#: inc/customizer.php:426 inc/customizer.php:1265
+msgid "Masonry (grid style)"
+msgstr "Masonry（grid风格）"
+
+#: inc/customizer.php:442
+msgid "Excerpt lenght"
+msgstr "摘要长度"
+
+#: inc/customizer.php:443
+msgid "Choose your excerpt length. Default: 55 words"
+msgstr "请选择您的摘要长度。默认：55个字"
+
+#: inc/customizer.php:463
+msgid "Hide post date on index?"
+msgstr "需要将索引中的文章日期隐藏吗？"
+
+#: inc/customizer.php:480
+msgid "Hide post categories on index?"
+msgstr "需要将索引中的文章目录隐藏吗？"
+
+#: inc/customizer.php:493
+msgid "Single posts"
+msgstr "单独文章"
+
+#: inc/customizer.php:511
+msgid "Hide post date &amp; author on single posts?"
+msgstr "需要将单独文章中的文章日期 &amp; 作者隐藏吗？"
+
+#: inc/customizer.php:528
+msgid "Hide post categories on single posts?"
+msgstr "需要将单独文章中的文章目录隐藏吗？"
+
+#: inc/customizer.php:545
+msgid "Hide post tags on single posts?"
+msgstr "需要将单独文章中的文章标签隐藏吗？"
+
+#: inc/customizer.php:561
+msgid "Full width single posts?"
+msgstr "单独文章全宽"
+
+#: inc/customizer.php:570
+msgid "Fonts"
+msgstr "字体"
+
+#: inc/customizer.php:402
+msgid "Blog page"
+msgstr "博客字体"
+
+#: inc/customizer.php:420
+msgid "Blog layout"
+msgstr "博客布局"
+
+#: inc/customizer.php:424 inc/customizer.php:1263
+msgid "Classic"
+msgstr "经典"
+
+#: inc/customizer.php:425 inc/customizer.php:1264
+msgid "Full width (no sidebar)"
+msgstr "全宽（无工具栏）"
+
+#: inc/customizer.php:115
+msgid "Upload your favicon"
+msgstr "上传您的图标"
+
+#: inc/customizer.php:137
+msgid "Upload your logo"
+msgstr "上传您的标识"
+
+#: inc/customizer.php:158
+msgid "Logo size"
+msgstr "标识大小"
+
+#: inc/customizer.php:159
+msgid "Max-width for the logo. Default 200px"
+msgstr "标识最大宽度：默认200px"
+
+#: inc/customizer.php:179
+msgid "Logo style"
+msgstr "标识风格"
+
+#: inc/customizer.php:180
+msgid "This option applies only if you are using a logo"
+msgstr "如果您使用标识，此选项适用。"
+
+#: inc/customizer.php:184 inc/customizer.php:1282
+msgid "Only logo"
+msgstr "只有标识"
+
+#: inc/customizer.php:185 inc/customizer.php:1283
+msgid "Logo plus site title&amp;description"
+msgstr "标识加站点标题&amp;描述"
+
+#: inc/customizer.php:202
+msgid "Padding"
+msgstr "背景区域"
+
+#: inc/customizer.php:203
+msgid "Top&amp;bottom padding for the branding. Default: 150px"
+msgstr "用于商标放置的顶端&amp底部背景区域。默认：150px"
+
+#: inc/customizer.php:215
+msgid "Latest news"
+msgstr "最新消息"
+
+#: inc/customizer.php:231
+msgid "Check this box to display the latest news ribbon."
+msgstr "检查这个盒子，展示最新消息功能区。"
+
+#: inc/customizer.php:243
+msgid "Select which category to show in the slider"
+msgstr "选择显示在幻灯片中的目录"
+
+#: inc/customizer.php:259 inc/customizer.php:364
+msgid "Enter the number of posts you want to show"
+msgstr "输入您希望显示的文章数量"
+
+#: inc/customizer.php:269
+msgid "Carousel"
+msgstr "Carousel"
+
+#: inc/customizer.php:285
+msgid "Show carousel on front page?"
+msgstr "需要在首页显示carousel 吗？"
+
+#: inc/customizer.php:302
+msgid "Show carousel on blog index/archives/etc?"
+msgstr "需要在博客索引/存档/其他中显示carousel吗？"
+
+#: inc/customizer.php:319
+msgid "Show carousel on single posts and pages?"
+msgstr "需要在单独文章和页面中显示carousel吗？"
+
+#: inc/customizer.php:331
+msgid "Select which category to show in the carousel"
+msgstr "选择需要显示在carousel的目录"
+
+#: inc/customizer.php:347
+msgid "Enter the carousel speed in miliseconds [Default: 4000]"
+msgstr "请输入每毫秒的carousel速度【默认：4000】"
+
+#: inc/customizer.php:390
+msgid "Blog options"
+msgstr "博客选项"
+
+#: inc/customizer.php:98
+msgid "General"
+msgstr "常规"
+
+#: inc/customizer.php:35
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; 选择 &mdash;"
+
+#: image.php:64
+msgid "Next &rarr;"
+msgstr "下一个 &rarr;"
+
+#: image.php:23
+msgid "<i class=\"fa fa-pencil\"></i> Image posted in: <a href=\"%1$s\" title=\"Return to %2$s\" rel=\"gallery\">%2$s</a>"
+msgstr "<i class=\"fa fa-pencil\"></i> 图片发布在： <a href=\"%1$s\" title=\"Return to %2$s\" rel=\"gallery\">%2$s</a>"
+
+#: image.php:48
+msgid "Image available in:"
+msgstr "图片可获得于："
+
+#: image.php:63
+msgid "&larr; Previous"
+msgstr "&larr; 上一个"
+
+#: functions.php:103
+msgid "Widgets added here will be displayed on pages using the Front Page template"
+msgstr "使用首页模板时，添加在这里的微件将显示在页面上。"
+
+#: functions.php:111
+msgid "Home page top"
+msgstr "主页置顶"
+
+#: functions.php:113
+msgid "Widgets added here will be displayed above the main content area and sidebar on pages using the Front Page template"
+msgstr "使用首页模板时，添加在这里的微件将显示在主要内容区域之上和页面的工具栏中。"
+
+#: functions.php:121
+msgid "Footer left"
+msgstr "页脚左侧"
+
+#: functions.php:129
+msgid "Footer center"
+msgstr "页脚中部"
+
+#: functions.php:137
+msgid "Footer right"
+msgstr "页脚右侧"
+
+#: functions.php:331
+msgid "Create your menu here"
+msgstr "在这里创建您的菜单"
+
+#: functions.php:352
+msgid "See all posts in %s"
+msgstr "在%s查看所有文章"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "跳至正文"
+
+#: functions.php:101
+msgid "Home page"
+msgstr "首页"
+
+#: functions.php:56
+msgid "Social"
+msgstr "社交媒体"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "工具栏"
+
+#: footer.php:21
+msgid "Theme: %2$s by %1$s."
+msgstr "主题：%2$s by %1$s."
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "自豪地采用%s"
+
+#: footer.php:19
+msgid "http://wordpress.org/"
+msgstr "http://cn.wordpress.org/"
+
+#: content-page.php:25 inc/template-tags.php:113
+msgid "Edit"
+msgstr "编辑"
+
+#: content-page.php:18 content-single.php:29 content.php:35 image.php:45
+msgid "Pages:"
+msgstr "页面："
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; 早期评论"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%s个想法"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "试试在月度归档中寻找。%1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "常用分类目录"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr " 看起来这个位置没有内容，试试下面的链接或搜索一下或许有帮助。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/flymag/"
+msgstr "http://themeisle.com/themes/flymag/"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
